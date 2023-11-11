@@ -19,6 +19,15 @@ Matrix<double> some_matrix_op()
   
 int main(int argc, char** argv) 
 {
-	some_matrix_op();
+	char buffer[1000];
+	Matrix<double> m1(3, 3);
+    {
+      m1(0, 0) = 1.; // I hate Matlab, like C style indexes :-)
+      m1(1, 1) = 2.;
+      m1(2, 2) = 3.;
+      m1(0, 1) = 4.;
+    }
+  	//m1 = some_matrix_op();
+	m1.inspect(buffer,300);
 	return 0;
 }

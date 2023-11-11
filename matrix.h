@@ -42,27 +42,27 @@
  * you can confirm the limitation at http://creativecommons.org/licenses/by-nc-sa/.
  * 
  * === Japanese ===
- * ‚±‚ê‚ÍTI DSP 67xƒVƒŠ[ƒYŒü‚¯‚Ìs—ñƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
- * —á‚¦‚Îs—ñÏ‚Í*‚Å•\Œ»‚³‚ê‚é‚È‚ÇA
- * s—ñ‰‰Z‚Ì‘½‚­‚ÍC++Œ¾Œê‚Ì“Á’¥‚Å‚ ‚éƒIƒyƒŒ[ƒ^ƒI[ƒo[ƒ[ƒh‚ğg‚Á‚Ä
- * À‘•‚³‚ê‚Ä‚¢‚Ü‚·B
- * ‚Ü‚½ƒƒ‚ƒŠ‚ÌŠÇ—‚É‚Â‚¢‚Ä‚àƒŠƒtƒ@ƒŒƒ“ƒXƒJƒEƒ“ƒ^[‚ğg‚Á‚Ä‚¢‚é‚Ì‚ÅA
- * ’Êí‚Ìg—p‚Å‚Íƒƒ‚ƒŠƒŠ[ƒN‚ğ‹C‚É‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB
- * ’¼Š´“I‚Ég‚¦‚é‚ÆM‚¶‚Ä‚¢‚Ü‚·(Î)
+ * î¾¤î¿î¿€TI DSP 67xï€ˆ?î»“ï€‹ï˜‘î¾¢î¾¿ï™‡î¤¥?î¿µï€§??î¾¸î¾ªîºº
+ * î¤•î¾™î¿ï™‡î¤¥î’¸î¿€*î¾¸î¸ï—î¾¦î¿î¿œî¾»î¾ºîº¹
+ * ï™‡î¤¥?îŒ«î¾¿î•ƒî¾ î¿€C++ï—“ï—¿î¾¿îšî—ˆî¾¸?î¿œî¿»ï€«?î»“ï€î¿»î»“ï€¡î»“?î»“ï€šî¿£îŒ¸î¾´î¾·
+ * î¯?î¾¦î¿î¾·î¾•î¿î¾ªîºº
+ * î¿î¾°???î¾¿ï’¢?î¾¼î¾µî¾•î¾·î¿“?ï€¦î¿²??ï€Šî¿¼î¿·?ï€î»“î¿£îŒ¸î¾´î¾·î¾•î¿œî¾¿î¾¸îº¹
+ * î—­î¹î¾¿îŒ¸î£†î¾¸î¿€????î»“ï€€î¿£ï“î¾¼î¾ªî¿œî§î£Œî¿€?î¿›î¿î¾¬î¿¤îºº
+ * î—Ÿï’î˜«î¾¼îŒ¸î¾™î¿œî¾¹î‘˜î¾©î¾·î¾•î¿î¾ª(îš)
  * 
- * ‚Ü‚½‚±‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚Í"TMS320C67x DSP Library (dsp67x.lib)"‚ğg‚Á‚Ä
- * s—ñÏ‚È‚Ç‚É‚Â‚¢‚Ä‚©‚È‚è‚‘¬‰»‚·‚é‚±‚Æ‚ª‰Â”\‚Å‚·B
- * ‰º‚ÌƒRƒƒ“ƒgƒAƒEƒg‚³‚ê‚½ƒwƒbƒ_ƒtƒ@ƒCƒ‹‚ÌƒCƒ“ƒNƒ‹[ƒhA‚È‚ç‚Ñ‚Édsp67x.lib‚ğ
- * ƒŠƒ“ƒN‚·‚é‚±‚Æ‚Å‚±‚ÌƒIƒvƒVƒ‡ƒ“‚Í—LŒø‚É‚È‚è‚Ü‚·B
+ * î¿î¾°î¾¤î¾¿?î¿µï€§??î¿€"TMS320C67x DSP Library (dsp67x.lib)"î¿£îŒ¸î¾´î¾·
+ * ï™‡î¤¥î’¸î¾»î¾ºî¾¼î¾µî¾•î¾·î¾œî¾»î¿›?î”²ï¹î¾ªî¿œî¾¤î¾¹î¾ï€î››î¾¸î¾ªîºº
+ * ï¸î¾¿ï€„??ï€™î¿³î¿·ï€™î¾¦î¿î¾°ï€©ï€”ï€‘ï€¦î¿²î¿µ?î¾¿î¿µ?ï€€?î»“ï€šîº¹î¾»î¿šî¿„î¾¼dsp67x.libî¿£
+ * ??ï€€î¾ªî¿œî¾¤î¾¹î¾¸î¾¤î¾¿î¿»ï€¨ï€ˆ??î¿€î¢¢ï˜î¾¼î¾»î¿›î¿î¾ªîºº
  * 
- * ‰½‚©‚ ‚è‚Ü‚µ‚½‚çA
- * fenrir.naru atmark gmail dot com ‚Ü‚Åƒ[ƒ‹‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
+ * ï»î¾œ?î¿›î¿î¾¨î¾°î¿šîº¹
+ * fenrir.naru atmark gmail dot com î¿î¾¸?î»“?î¾›ï“ƒî¾•î¾•î¾°î¾¨î¿î¾ªîºº
  * 
- * ‚±‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚Í–³‚Å‚·‚ªA“®ì‚ğ•ÛØ‚·‚é‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
- * ’˜ìÒ(M.Naruoka, ƒnƒ“ƒhƒ‹ƒl[ƒ€fenrir)‚Í‚±‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚ª
- * ƒNƒŠƒGƒBƒeƒBƒuƒRƒ‚ƒ“ƒYƒ‰ƒCƒZƒ“ƒX(•\¦ - ”ñ‰c—˜ - Œp³)‚ÌŒ³‚Å
- * ³‚µ‚­—˜—p‚³‚ê‚é‚±‚Æ‚ğ–]‚İ‚Ü‚·B
- * ƒ‰ƒCƒZƒ“ƒX‚ÌÚ×‚É‚Â‚¢‚Ä‚ÍA
+ * î¾¤î¾¿?î¿µï€§??î¿€î¡Š?î¾¸î¾ªî¾îº¹î™®ïšî¿£îŸ•î¤î¾ªî¿œî¿“î¾¿î¾¸î¿€?î¿›î¿î¾¬î¿¤îºº
+ * ?ïšî(M.Naruoka, ï€ ?ï€š?ï€î»“?fenrir)î¿€î¾¤î¾¿?î¿µï€§??î¾
+ * ï€€?î¿¹î¿´ï€—î¿´ï€§ï€„??ï€‹?î¿µï€Œ?ï€Š(î¸î• - îïƒ? - ï–§î¿)î¾¿ï—ˆî¾¸
+ * î’œî¾¨î¾ ?î£†î¾¦î¿î¿œî¾¤î¾¹î¿£î –î¿î¿î¾ªîºº
+ * ?î¿µï€Œ?ï€Šî¾¿î¦ïš‰î¾¼î¾µî¾•î¾·î¿€îº¹
  * http://creativecommons.org/licenses/by-nc-sa/deed.ja
  */
 
@@ -91,7 +91,7 @@ class Array2D_Dense;
 /**
  * Two-dimension array abstract class.
  * 
- * 2ŸŒ³”z—ñ‚Ì’ŠÛƒNƒ‰ƒX
+ * 2?ï—ˆî›¹î¤¥î¾¿?î§ï€€?ï€Š
  * 
  */
 template<class FloatT>
@@ -105,18 +105,18 @@ class Array2D{
   
   public:
     /**
-     * ƒVƒƒƒ[ƒRƒs[‚ğ‚µ‚Ü‚·B
+     * ï€ˆ??î»“ï€„ï€¥î»“î¿£î¾¨î¿î¾ªîºº
      * 
-     * @return (self_t *) ©•ª©g
+     * @return (self_t *) î˜î¤î˜î‘²
      */
     virtual self_t *shallow_copy() const = 0;
 
     /**
-     * Array2DƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * w’è‚ÌsƒTƒCƒYAw’è‚Ì—ñƒTƒCƒY‚Å‰¼‘z“I‚È2ŸŒ³”z—ñ‚ğ¶¬‚µ‚Ü‚·B
+     * Array2Dï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * îˆî˜‹î¾¿ï™‡ï€†î¿µï€‹îº¹îˆî˜‹î¾¿î¤¥ï€†î¿µï€‹î¾¸ïºî”¢î˜«î¾»2?ï—ˆî›¹î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
      * 
-     * @param rows s”
-     * @param columns —ñ”
+     * @param rows ï™‡?
+     * @param columns î¤¥?
      */
     Array2D(const unsigned int &rows, const unsigned int &columns)
         : m_rows(rows), m_columns(columns){
@@ -126,7 +126,7 @@ class Array2D{
     }
     
     /**
-     * Array2DƒNƒ‰ƒX‚ÌƒfƒXƒgƒ‰ƒNƒ^B
+     * Array2Dï€€?ï€Šî¾¿ï€˜ï€Šï€™?ï€€ï€îºº
      * 
      */
     virtual ~Array2D(){
@@ -136,44 +136,44 @@ class Array2D{
     }
     
     /**
-     * —v‘f‚Ìƒ[ƒƒNƒŠƒA‚ğ‚µ‚Ü‚·B
+     * î£Œî”î¾¿ï€?ï€€?î¿³î¿£î¾¨î¿î¾ªîºº
      *
      */
     virtual void clear() = 0;
     
     /**
-     * 2ŸŒ³”z—ñ‚ğ•¡»(ƒfƒB[ƒvƒRƒs[)‚µ‚Ü‚·B
+     * 2?ï—ˆî›¹î¤¥î¿£î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¨î¿î¾ªîºº
      * 
-     * @return (self_t *) ƒRƒs[
+     * @return (self_t *) ï€„ï€¥î»“
      */
     virtual self_t *copy() const = 0;
 
     /**
-     * ’†g‚ª–§‚È”z—ñ‚É•ÏŠ·‚µ‚Ü‚·B
+     * ?î‘²î¾î ¾î¾»î›¹î¤¥î¾¼îŸ‰ï’’î¾¨î¿î¾ªîºº
      *
      * @return (dense_t)
      */
     virtual dense_t dense() const = 0;
     
     /**
-     * s”‚ğ•Ô‚µ‚Ü‚·B
+     * ï™‡?î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (int) s”
+     * @return (int) ï™‡?
      */
     unsigned int rows() const{return m_rows;}
     /**
-     * —ñ”‚ğ•Ô‚µ‚Ü‚·B
+     * î¤¥?î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (int) —ñ”
+     * @return (int) î¤¥?
      */
     unsigned int columns() const{return m_columns;}
     
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     virtual FloatT &operator()(
         const unsigned int &row, 
@@ -184,23 +184,23 @@ template <class FloatT>
 class Array2D_BufferManager {
   protected:
     FloatT *m_buffer;
-    int *ref; //QÆƒJƒEƒ“ƒ^
+    int *ref; //îŒ¢î’î¿¼î¿·?ï€
     
     typedef Array2D_BufferManager<FloatT> self_t;
   
   public:
     /**
-     * ŠÇ—‚µ‚Ä‚¢‚éƒoƒbƒtƒ@‚ğ•Ô‚µ‚Ü‚·B
+     * ï’¢?î¾¨î¾·î¾•î¿œï€¡ï€”ï€¦î¿²î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (FloatT *) ’Pƒ”z—ñ
+     * @return (FloatT *) î–•?î›¹î¤¥
      */
     FloatT *buffer() const {return m_buffer;}
     
     /**
-     * Array2D_BufferManagerƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * ŠÇ—‘ÎÛ‚Æ‚·‚éƒoƒbƒtƒ@‚ğ“o˜^‚µ‚Ü‚·B
+     * Array2D_BufferManagerï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * ï’¢?î•”î§î¾¹î¾ªî¿œï€¡ï€”ï€¦î¿²î¿£î™‘î¥‘î¾¨î¿î¾ªîºº
      * 
-     * @param buffer ŠÇ—‘ÎÛ‚Ìƒoƒbƒtƒ@
+     * @param buffer ï’¢?î•”î§î¾¿ï€¡ï€”ï€¦î¿²
      */
     Array2D_BufferManager(FloatT *buffer) 
         : m_buffer(buffer), 
@@ -210,9 +210,9 @@ class Array2D_BufferManager {
     }
     
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€
      * 
-     * @param orig ƒRƒs[Œ³
+     * @param orig ï€„ï€¥î»“ï—ˆ
      */
     Array2D_BufferManager(const self_t &orig) 
         : m_buffer(orig.m_buffer), ref(orig.ref){
@@ -220,7 +220,7 @@ class Array2D_BufferManager {
     }
     
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     virtual ~Array2D_BufferManager(){
       if(ref && ((--(*ref)) <= 0)){
@@ -230,9 +230,9 @@ class Array2D_BufferManager {
     }
     
     /**
-     * ‘ã“ü‰‰ZqB
+     * î•©îš¼?îŒ«î‚îºº
      * 
-     * @return (self_t) ©•ª©g
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator=(const self_t &array){
       if(this != &array){
@@ -248,7 +248,7 @@ class Array2D_BufferManager {
 /**
  * Two-dimension dense array class.
  * 
- * ’†g‚ª‹l‚Ü‚Á‚½2ŸŒ³”z—ñ
+ * ?î‘²î¾ï”†î¿î¾´î¾°2?ï—ˆî›¹î¤¥
  * 
  */
 template <class FloatT>
@@ -265,12 +265,12 @@ class Array2D_Dense
     using buffer_manager_t::m_buffer;
     
     /**
-     * Array2D_DenseƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * w’è‚ÌsƒTƒCƒYAw’è‚Ì—ñƒTƒCƒY‚Å2ŸŒ³”z—ñ‚ğ¶¬‚µ‚Ü‚·B
-     * ‚Ü‚½¬•ª‚Í‚·‚×‚ÄFloatT(0)‚Å‰Šú‰»‚³‚ê‚Ü‚·B
+     * Array2D_Denseï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * îˆî˜‹î¾¿ï™‡ï€†î¿µï€‹îº¹îˆî˜‹î¾¿î¤¥ï€†î¿µï€‹î¾¸2?ï—ˆî›¹î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
+     * î¿î¾°î’•î¤î¿€î¾ªî¿Šî¾·FloatT(0)î¾¸?ï“•ï¹î¾¦î¿î¿î¾ªîºº
      * 
-     * @param rows s”
-     * @param columns —ñ”
+     * @param rows ï™‡?
+     * @param columns î¤¥?
      */
     Array2D_Dense(
         const unsigned int &rows, 
@@ -281,13 +281,13 @@ class Array2D_Dense
     }
     
     /**
-     * Array2D_DenseƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * w’è‚ÌsƒTƒCƒYAw’è‚Ì—ñƒTƒCƒY‚Å2ŸŒ³”z—ñ‚ğ¶¬‚µ‚Ü‚·B
-     * ‚Ü‚½¬•ª‚Íserilaized‚É‚æ‚Á‚Äw’è‚³‚ê‚½’l‚Å¶¬‚³‚ê‚Ü‚·
+     * Array2D_Denseï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * îˆî˜‹î¾¿ï™‡ï€†î¿µï€‹îº¹îˆî˜‹î¾¿î¤¥ï€†î¿µï€‹î¾¸2?ï—ˆî›¹î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
+     * î¿î¾°î’•î¤î¿€serilaizedî¾¼î¿™î¾´î¾·îˆî˜‹î¾¦î¿î¾°î–±î¾¸î’Ÿî’•î¾¦î¿î¿î¾ª
      *
-     * @param rows s”
-     * @param columns —ñ”
-     * @param serialized ¬•ª
+     * @param rows ï™‡?
+     * @param columns î¤¥?
+     * @param serialized î’•î¤
      */
     Array2D_Dense(
         const unsigned int &rows,
@@ -300,7 +300,7 @@ class Array2D_Dense
     }
     
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€
      * 
      */
     Array2D_Dense(const self_t &orig) 
@@ -310,7 +310,7 @@ class Array2D_Dense
     }
     
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     ~Array2D_Dense(){}
     
@@ -318,9 +318,9 @@ class Array2D_Dense
     using super_t::columns;
     
     /**
-     * 2ŸŒ³”z—ñ‚ğ•¡»(ƒfƒB[ƒvƒRƒs[)‚µ‚Ü‚·B
+     * 2?ï—ˆî›¹î¤¥î¿£î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¨î¿î¾ªîºº
      * 
-     * @return (root_t) ƒRƒs[
+     * @return (root_t) ï€„ï€¥î»“
      */
     root_t *copy() const {
       self_t *array(new self_t(rows(), columns()));
@@ -330,26 +330,26 @@ class Array2D_Dense
     }
     
     /**
-     * ’†g‚ª–§‚È”z—ñ‚É•ÏŠ·‚µ‚Ü‚·B
+     * ?î‘²î¾î ¾î¾»î›¹î¤¥î¾¼îŸ‰ï’’î¾¨î¿î¾ªîºº
      *
      * @return (self_t)
      */
     self_t dense() const {return self_t(*this);}
     
     /**
-     * ƒVƒƒƒ[ƒRƒs[‚ğ‚µ‚Ü‚·B
-     * QÆƒJƒEƒ“ƒ^‚ÌƒCƒ“ƒNƒŠƒƒ“ƒg‚à“¯‚És‚¢‚Ü‚·B
+     * ï€ˆ??î»“ï€„ï€¥î»“î¿£î¾¨î¿î¾ªîºº
+     * îŒ¢î’î¿¼î¿·?ï€î¾¿î¿µ?ï€€???ï€™î¿“î™¯?î¾¼ï™‡î¾•î¿î¾ªîºº
      * 
-     * @return (Array2D_Dense *)©•ª©g
+     * @return (Array2D_Dense *)î˜î¤î˜î‘²
      */
     root_t *shallow_copy() const{return new self_t(*this);}
     
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     inline FloatT &operator()(
         const unsigned int &row, 
@@ -359,7 +359,7 @@ class Array2D_Dense
     }
     
     /**
-     * v‘f‚Ìƒ[ƒƒNƒŠƒA‚ğ‚µ‚Ü‚·B
+     * vî”î¾¿ï€?ï€€?î¿³î¿£î¾¨î¿î¾ªîºº
      * 
      */
     void clear(){
@@ -369,9 +369,9 @@ class Array2D_Dense
     }
     
     /**
-     * ‘ã“ü‰‰ZqB
+     * î•©îš¼?îŒ«î‚îºº
      * 
-     * @return (self_t) ©•ª©g
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator=(const self_t &another){
       buffer_manager_t::operator=(another);
@@ -384,7 +384,7 @@ class Array2D_Dense
 /**
  * Delegated two-dimension array abstract class.
  * 
- * •Ê‚Ì2ŸŒ³”z—ñ‚ÉˆÏ÷‚ğs‚¤2ŸŒ³”z—ñƒNƒ‰ƒX
+ * îŸ„î¾¿2?ï—ˆî›¹î¤¥î¾¼ï°î‘ƒî¿£ï™‡î¾—2?ï—ˆî›¹î¤¥ï€€?ï€Š
  * 
  */
 template<class FloatT>
@@ -399,7 +399,7 @@ class Array2D_Delegate : public Array2D<FloatT>{
     
   protected:
     /**
-     * ˆÏ÷Œ³‚ğ•Ô‚µ‚Ü‚·B
+     * ï°î‘ƒï—ˆî¿£îŸî¾¨î¿î¾ªîºº
      * 
      */
     root_t &getTarget() const{return *m_target;}
@@ -409,18 +409,18 @@ class Array2D_Delegate : public Array2D<FloatT>{
     using super_t::columns;
     
     /**
-     * ˆÏ÷æ‚ğ•Ô‚µ‚Ü‚·B
+     * ï°î‘ƒî“î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (root_t) ˆÏ÷æ
+     * @return (root_t) ï°î‘ƒî“
      */
     const root_t *getParent() const{return m_target;}
     
     /**
-     * Array2D_Delegate(ˆÏ÷2ŸŒ³”z—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
+     * Array2D_Delegate(ï°î‘ƒ2?ï—ˆî›¹î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
      * 
-     * @param rows s”
-     * @param columns —ñ”
-     * @param array Œ³‚Ì”z—ñ
+     * @param rows ï™‡?
+     * @param columns î¤¥?
+     * @param array ï—ˆî¾¿î›¹î¤¥
      */
     Array2D_Delegate(const unsigned int &rows,
         const unsigned int &columns,
@@ -428,7 +428,7 @@ class Array2D_Delegate : public Array2D<FloatT>{
         : super_t(rows, columns), m_target(array.shallow_copy()){}
     
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€
      * 
      */
     Array2D_Delegate(const Array2D_Delegate &array)
@@ -436,16 +436,16 @@ class Array2D_Delegate : public Array2D<FloatT>{
         m_target(array.m_target->shallow_copy()){}
         
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     ~Array2D_Delegate(){delete m_target;}
         
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     inline FloatT &operator()(
         const unsigned int &row, 
@@ -454,7 +454,7 @@ class Array2D_Delegate : public Array2D<FloatT>{
     }
     
     /**
-     * ’†g‚ª–§‚È”z—ñ‚É•ÏŠ·‚µ‚Ü‚·B
+     * ?î‘²î¾î ¾î¾»î›¹î¤¥î¾¼îŸ‰ï’’î¾¨î¿î¾ªîºº
      *
      * @return (dense_t)
      */
@@ -470,17 +470,17 @@ class Array2D_Delegate : public Array2D<FloatT>{
     }
     
     /**
-     * •”•ª2ŸŒ³”z—ñ‚ğ•¡»(ƒfƒB[ƒvƒRƒs[)‚µ‚Ü‚·B
-     * •¡»Œã‚Í’Pƒ‚È2ŸŒ³”z—ñ‚É‚È‚è‚Ü‚·B
+     * ?î¤2?ï—ˆî›¹î¤¥î¿£î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¨î¿î¾ªîºº
+     * î›î’¤ï—¸î¿€î–•?î¾»2?ï—ˆî›¹î¤¥î¾¼î¾»î¿›î¿î¾ªîºº
      * 
-     * @return (Array2D<FloatT>) ƒRƒs[
+     * @return (Array2D<FloatT>) ï€„ï€¥î»“
      */
     root_t *copy() const{
       return dense().shallow_copy();
     }
     
     /**
-     * —v‘f‚Ìƒ[ƒƒNƒŠƒA‚ğs‚¢‚Ü‚·B
+     * î£Œî”î¾¿ï€?ï€€?î¿³î¿£ï™‡î¾•î¿î¾ªîºº
      * 
      */
     void clear(){
@@ -495,7 +495,7 @@ class Array2D_Delegate : public Array2D<FloatT>{
 /**
  * Transposed two-dimension array class.
  * 
- * “]’u2ŸŒ³”z—ñ‚ğ‚ ‚ç‚í‚·ƒNƒ‰ƒX
+ * î˜¿î–º2?ï—ˆî›¹î¤¥î¿£?î¿šî¿ î¾ªï€€?ï€Š
  * 
  */
 template<class FloatT>
@@ -503,33 +503,33 @@ class Array2D_Transpose : public Array2D_Delegate<FloatT>{
   
   public:
     /**
-     * Array2D_Transpose(•”•ª2ŸŒ³”z—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒg‰ƒNƒ^
+     * Array2D_Transpose(?î¤2?ï—ˆî›¹î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?Nï€
      * 
-     * @param array Œ³‚Ì”z—ñ
+     * @param array ï—ˆî¾¿î›¹î¤¥
      */
     Array2D_Transpose(const Array2D<FloatT> &array)
         : Array2D_Delegate<FloatT>(array.columns(), array.rows(), array){}
     
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€
      * 
      */
     Array2D_Transpose(const Array2D_Transpose &array)
         : Array2D_Delegate<FloatT>(array.rows(), array.columns(), array){}
     
     /**
-     * ƒVƒƒƒ[ƒRƒs[‚ğ‚µ‚Ü‚·B
+     * ï€ˆ??î»“ï€„ï€¥î»“î¿£î¾¨î¿î¾ªîºº
      * 
-     * @return (Array2D *)©•ª©g
+     * @return (Array2D *)î˜î¤î˜î‘²
      */
     Array2D<FloatT> *shallow_copy() const{return new Array2D_Transpose(*this);}
         
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     inline FloatT &operator()(
         const unsigned int &row, 
@@ -538,7 +538,7 @@ class Array2D_Transpose : public Array2D_Delegate<FloatT>{
     }
     
     /**
-     * ’†g‚ª–§‚È”z—ñ‚É•ÏŠ·‚µ‚Ü‚·B
+     * ?î‘²î¾î ¾î¾»î›¹î¤¥î¾¼îŸ‰ï’’î¾¨î¿î¾ªîºº
      *
      * @return (Array2D_Dense<FloatT>)
      */
@@ -551,7 +551,7 @@ class Array2D_Transpose : public Array2D_Delegate<FloatT>{
 /**
  * Partial two-dimension array class.
  * 
- * •”•ª2ŸŒ³”z—ñ‚ğ‚ ‚ç‚í‚·ƒNƒ‰ƒX
+ * ?î¤2?ï—ˆî›¹î¤¥î¿£?î¿šî¿ î¾ªï€€?ï€Š
  * 
  */
 template<class FloatT>
@@ -559,7 +559,7 @@ class Array2D_Partial : public Array2D_Delegate<FloatT>{
   
   public:
     /**
-     * ’†g‚ª–§‚È”z—ñ‚É•ÏŠ·‚µ‚Ü‚·B
+     * ?î‘²î¾î ¾î¾»î›¹î¤¥î¾¼îŸ‰ï’’î¾¨î¿î¾ªîºº
      *
      * @return (Array2D_Dense<FloatT>)
      */
@@ -568,10 +568,10 @@ class Array2D_Partial : public Array2D_Delegate<FloatT>{
     }
     
     /**
-     * •”•ª2ŸŒ³”z—ñ‚ğ•¡»(ƒfƒB[ƒvƒRƒs[)‚µ‚Ü‚·B
-     * •¡»Œã‚Í’Pƒ‚È2ŸŒ³”z—ñ‚É‚È‚è‚Ü‚·B
+     * ?î¤2?ï—ˆî›¹î¤¥î¿£î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¨î¿î¾ªîºº
+     * î›î’¤ï—¸î¿€î–•?î¾»2?ï—ˆî›¹î¤¥î¾¼î¾»î¿›î¿î¾ªîºº
      * 
-     * @return (Array2D<FloatT>) ƒRƒs[
+     * @return (Array2D<FloatT>) ï€„ï€¥î»“
      */
     Array2D<FloatT> *copy() const{
       return Array2D_Delegate<FloatT>::copy();
@@ -583,27 +583,27 @@ class Array2D_Partial : public Array2D_Delegate<FloatT>{
     
   protected:
     /**
-     * ƒIƒtƒZƒbƒgs‚ğ•Ô‚µ‚Ü‚·B
+     * î¿»ï€¦ï€Œï€”ï€™ï™‡î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (int) s”
+     * @return (int) ï™‡?
      */
     unsigned int row_offset() const{return m_RowOffset;}
     /**
-     * ƒIƒtƒZƒbƒg—ñ‚ğ•Ô‚µ‚Ü‚·B
+     * î¿»ï€¦ï€Œï€”ï€™î¤¥î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (int) —ñ”
+     * @return (int) î¤¥?
      */
     unsigned int column_offset() const{return m_ColumnOffset;}
   
   public:
     /**
-     * Array2D_Partial(•”•ª2ŸŒ³”z—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
+     * Array2D_Partial(?î¤2?ï—ˆî›¹î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
      * 
-     * @param array Œ³‚Ì”z—ñ
-     * @param offsetRow •”•ª2ŸŒ³”z—ñ‚Å(0,0)‚Æ‚È‚éŒ³‚Ì2ŸŒ³”z—ñ‚Ìƒsƒ{ƒbƒg‚ÌsƒCƒ“ƒfƒbƒNƒX
-     * @param offsetColumn “¯‚¶‚­—ñƒCƒ“ƒfƒbƒNƒX
-     * @param rows s”
-     * @param columns —ñ”
+     * @param array ï—ˆî¾¿î›¹î¤¥
+     * @param offsetRow ?î¤2?ï—ˆî›¹î¤¥î¾¸(0,0)î¾¹î¾»î¿œï—ˆî¾¿2?ï—ˆî›¹î¤¥î¾¿ï€¥ï€­ï€”ï€™î¾¿ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param offsetColumn î™¯î¾©î¾ î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param rows ï™‡?
+     * @param columns î¤¥?
      */
     Array2D_Partial(const unsigned int &rows,
         const unsigned int &columns,
@@ -614,7 +614,7 @@ class Array2D_Partial : public Array2D_Delegate<FloatT>{
         m_RowOffset(rowOffset), m_ColumnOffset(columnOffset){}
     
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€
      * 
      */
     Array2D_Partial(const Array2D_Partial &array)
@@ -622,18 +622,18 @@ class Array2D_Partial : public Array2D_Delegate<FloatT>{
         m_RowOffset(array.row_offset()), m_ColumnOffset(array.column_offset()){}
     
     /**
-     * ƒVƒƒƒ[ƒRƒs[‚ğ‚µ‚Ü‚·B
+     * ï€ˆ??î»“ï€„ï€¥î»“î¿£î¾¨î¿î¾ªîºº
      * 
-     * @return (Array2D *)©•ª©g
+     * @return (Array2D *)î˜î¤î˜î‘²
      */
     Array2D<FloatT> *shallow_copy() const{return new Array2D_Partial(*this);}
         
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     inline FloatT &operator()(
         const unsigned int &row, 
@@ -647,12 +647,12 @@ template <class FloatT>
 class Matrix;
 
 /**
- * @brief ˆÏ÷‚³‚ê‚½s—ñ
+ * @brief ï°î‘ƒî¾¦î¿î¾°ï™‡î¤¥
  *
- * ˆÏ÷‚³‚ê‚½s—ñ(•”•ªs—ñA“]’us—ñ‚È‚Ç‚Ì”h¶s—ñ)‚ÌŠî’êƒNƒ‰ƒX
- * Œ³‚Ìs—ñƒNƒ‰ƒX‚Å‚Íƒ‰ƒCƒgƒEƒGƒCƒgÀ‘•(‘ã“üAƒVƒƒƒ[ƒRƒs[‚É‚æ‚é‰ğŒˆ)‚Å‚ ‚é‚½‚ßA
- * ‚»‚Ì‚Ü‚Ü‚Å‚Í”h¶ƒNƒ‰ƒX‚É‚¨‚¢‚Ä•¾ŠQ‚ª”­¶‚µ‚Ü‚·B
- * “–ŠY€–Ú‚ğ‰ğÁ‚·‚é‚Ì‚ªA‚±‚ÌƒNƒ‰ƒX‚Ì–ğŠ„‚Å‚·B
+ * ï°î‘ƒî¾¦î¿î¾°ï™‡î¤¥(?î¤ï™‡î¤¥îº¹î˜¿î–ºï™‡î¤¥î¾»î¾ºî¾¿î›§î’Ÿï™‡î¤¥)î¾¿ï“‰î˜ï€€?ï€Š
+ * ï—ˆî¾¿ï™‡î¤¥ï€€?ï€Šî¾¸î¿€?î¿µï€™î¿·î¿¹î¿µï€™î¯?(î•©îš¼?îº¹ï€ˆ??î»“ï€„ï€¥î»“î¾¼î¿™î¿œï®?)î¾¸?î¿œî¾°î¿’îº¹
+ * î¾®î¾¿î¿î¿î¾¸î¿€î›§î’Ÿï€€?ï€Šî¾¼î¾›î¾•î¾·î¸ï‘î¾îœŠî’Ÿî¾¨î¿î¾ªîºº
+ * ?ï‘–?î¡±î¿£ï®îî¾ªî¿œî¾¿î¾îº¹î¾¤î¾¿ï€€?ï€Šî¾¿î¢‡?î¾¸î¾ªîºº
  */
 template <class T>
 class DelegatedMatrix : public Matrix<T>{
@@ -678,10 +678,10 @@ class DelegatedMatrix : public Matrix<T>{
     virtual ~DelegatedMatrix(){}
 
     /**
-     * ‘ã“ü‰‰ZqB
-     * Šî’êƒNƒ‰ƒX‚ÌStorage‚ğ•ÏX‚·‚é‘€ì‚ÆˆÙ‚È‚èA¬•ª‚Ç‚¨‚µ‚Ì‘ã“ü‚ğs‚¢‚Ü‚·B
+     * î•©îš¼?îŒ«î‚îºº
+     * ï“‰î˜ï€€?ï€Šî¾¿Storageî¿£îŸ‰ï˜¬î¾ªî¿œ?ïšî¾¹ïºî¾»î¿›îº¹î’•î¤î¾ºî¾›î¾¨î¾¿î•©îš¼î¿£ï™‡î¾•î¿î¾ªîºº
      *
-     * @param matrix ‘ã“ü‚·‚és—ñ
+     * @param matrix î•©îš¼î¾ªî¿œï™‡î¤¥
      */
     self_t &operator=(const super_t &matrix){
       return static_cast<self_t &>(self_t::substitute(matrix));
@@ -700,13 +700,13 @@ class DelegatedMatrix : public Matrix<T>{
 };
 
 /**
- * @brief “]’us—ñ
+ * @brief î˜¿î–ºï™‡î¤¥
  *
- * “]’us—ñ‚ğ‚ ‚ç‚í‚·ƒNƒ‰ƒXB
- * ƒNƒ‰ƒX“àƒNƒ‰ƒX‚Æ‚µ‚Ä’è‹`B
- * “]’u2ŸŒ³”z—ñ‚ğ•\Œ»‚µ‚½Array2D_Transpose‚Æ‹¦—Í‚µ‚Ä“]’us—ñ‚ğÀŒ»‚µ‚Ä‚¢‚Ü‚·B
+ * î˜¿î–ºï™‡î¤¥î¿£?î¿šî¿ î¾ªï€€?ï€Šîºº
+ * ï€€?ï€Šîš ï€€?ï€Šî¾¹î¾¨î¾·î˜‹ï“ºîºº
+ * î˜¿î–º2?ï—ˆî›¹î¤¥î¿£î¸ï—î¾¨î¾°Array2D_Transposeî¾¹ï”î¤î¾¨î¾·î˜¿î–ºï™‡î¤¥î¿£î¯ï—î¾¨î¾·î¾•î¿î¾ªîºº
  *
- * @see Array2D_Transpose “]’u2ŸŒ³”z—ñ
+ * @see Array2D_Transpose î˜¿î–º2?ï—ˆî›¹î¤¥
  */
 template <class T>
 class TransposedMatrix : public DelegatedMatrix<T>{
@@ -720,24 +720,24 @@ class TransposedMatrix : public DelegatedMatrix<T>{
     using root_t::columns;
     
     /**
-     * TransposedMatrix(“]’us—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
+     * TransposedMatrix(î˜¿î–ºï™‡î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
      *
-     * @param matrix Œ³‚Ìs—ñ
+     * @param matrix ï—ˆî¾¿ï™‡î¤¥
      */
     TransposedMatrix(const root_t &matrix)
         : super_t(new Array2D_Transpose<T>(*(matrix.storage()))){}
 
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     ~TransposedMatrix(){}
 
     /**
-     * “]’us—ñ‚ğ“]’u‚µ‚ÄŒ³‚Ìs—ñ‚É–ß‚µ‚Ü‚·B
-     * •Ô‹p‚³‚ê‚és—ñ‚Í‚à‚Æ‚Ìs—ñ‚ÆƒŠƒ“ƒN‚µ‚Ä‚¢‚Ü‚·B
-     * ‚à‚Æ‚Ìs—ñ‚Æ‚ÌØ‚è—£‚µ‚ğs‚¤‚É‚Ítranspose().copy()‚Æ‚µ‚Ä‚­‚¾‚³‚¢B
+     * î˜¿î–ºï™‡î¤¥î¿£î˜¿î–ºî¾¨î¾·ï—ˆî¾¿ï™‡î¤¥î¾¼î¡¶î¾¨î¿î¾ªîºº
+     * îŸï”Šî¾¦î¿î¿œï™‡î¤¥î¿€î¿“î¾¹î¾¿ï™‡î¤¥î¾¹??ï€€î¾¨î¾·î¾•î¿î¾ªîºº
+     * î¿“î¾¹î¾¿ï™‡î¤¥î¾¹î¾¿î“î¿›î£—î¾¨î¿£ï™‡î¾—î¾¼î¿€transpose().copy()î¾¹î¾¨î¾·î¾ î¾±î¾¦î¾•îºº
      *
-     * @return (root_t) “]’us—ñ
+     * @return (root_t) î˜¿î–ºï™‡î¤¥
      */
     inline root_t untranspose() const{
       return super_t::original();
@@ -748,21 +748,21 @@ class TransposedMatrix : public DelegatedMatrix<T>{
     }
     
     /**
-     * s—ñ‚ğæZ‚µ‚Ü‚·B(“]’u * ”ñ“]’u)
+     * ï™‡î¤¥î¿£î²îŒ«î¾¨î¿î¾ªîºº(î˜¿î–º * îî˜¿î–º)
      *
-     * @param matrix ‚©‚¯‚és—ñ
-     * @return (root_t) Œ‹‰Ê
+     * @param matrix î¾œî¾¢î¿œï™‡î¤¥
+     * @return (root_t) ?ïˆ
      */
     root_t operator*(const root_t &matrix) const{
       return super_t::operator*(matrix);
     }
     
     /**
-     * s—ñ‚ğæZ‚µ‚Ü‚·B(“]’u * “]’u)
+     * ï™‡î¤¥î¿£î²îŒ«î¾¨î¿î¾ªîºº(î˜¿î–º * î˜¿î–º)
      *
-     * @param matrix ‚©‚¯‚és—ñ
-     * @return (root_t) Œ‹‰Ê
-     * @throw MatrixException s—ñ‚ÌÏZ‚ª¬—§‚µ‚È‚¢ê‡(ƒIƒyƒ‰ƒ“ƒhs—ñ‚Ì—ñ”‚ªˆø”s—ñ‚Ìs”‚Æ“™‚µ‚­‚È‚¢)
+     * @param matrix î¾œî¾¢î¿œï™‡î¤¥
+     * @return (root_t) ?ïˆ
+     * @throw MatrixException ï™‡î¤¥î¾¿î’¸îŒ«î¾î’•î£›î¾¨î¾»î¾•î¶?(î¿»ï€«??ï€šï™‡î¤¥î¾¿î¤¥?î¾ï™?ï™‡î¤¥î¾¿ï™‡?î¾¹?î¾¨î¾ î¾»î¾•)
      */
     root_t operator*(const self_t &matrix) const{
       return operator*((const root_t &)matrix);
@@ -770,13 +770,13 @@ class TransposedMatrix : public DelegatedMatrix<T>{
 };
 
 /**
- * @brief •”•ªs—ñ
+ * @brief ?î¤ï™‡î¤¥
  *
- * •”•ªs—ñ‚ğ‚ ‚ç‚í‚·ƒNƒ‰ƒX
- * ƒNƒ‰ƒX“àƒNƒ‰ƒX‚Æ‚µ‚Ä’è‹`B
- * •”•ª2ŸŒ³”z—ñ‚ğ•\Œ»‚µ‚½Array2D_Partial‚Æ‹¦—Í‚µ‚Ä•”•ªs—ñ‚ğÀŒ»‚µ‚Ä‚¢‚Ü‚·B
+ * ?î¤ï™‡î¤¥î¿£?î¿šî¿ î¾ªï€€?ï€Š
+ * ï€€?ï€Šîš ï€€?ï€Šî¾¹î¾¨î¾·î˜‹ï“ºîºº
+ * ?î¤2?ï—ˆî›¹î¤¥î¿£î¸ï—î¾¨î¾°Array2D_Partialî¾¹ï”î¤î¾¨î¾·?î¤ï™‡î¤¥î¿£î¯ï—î¾¨î¾·î¾•î¿î¾ªîºº
  *
- * @see Array2D_Partial •”•ª2ŸŒ³”z—ñ
+ * @see Array2D_Partial ?î¤2?ï—ˆî›¹î¤¥
  */
 template <class T>
 class PartialMatrix : public DelegatedMatrix<T>{
@@ -787,13 +787,13 @@ class PartialMatrix : public DelegatedMatrix<T>{
 
   public:
     /**
-     * PartialMatrix(•”•ªs—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
+     * PartialMatrix(?î¤ï™‡î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
      *
-     * @param matrix Œ³‚Ìs—ñ
-     * @param rows s”
-     * @param columns —ñ”
-     * @param rowOffset •”•ªs—ñ‚Å(0,0)‚Æ‚È‚éŒ³‚Ìs—ñ‚Ìƒsƒ{ƒbƒg‚ÌsƒCƒ“ƒfƒbƒNƒX
-     * @param columnOffset “¯‚¶‚­—ñƒCƒ“ƒfƒbƒNƒX
+     * @param matrix ï—ˆî¾¿ï™‡î¤¥
+     * @param rows ï™‡?
+     * @param columns î¤¥?
+     * @param rowOffset ?î¤ï™‡î¤¥î¾¸(0,0)î¾¹î¾»î¿œï—ˆî¾¿ï™‡î¤¥î¾¿ï€¥ï€­ï€”ï€™î¾¿ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param columnOffset î™¯î¾©î¾ î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
      */
     PartialMatrix(
         const root_t &matrix,
@@ -807,7 +807,7 @@ class PartialMatrix : public DelegatedMatrix<T>{
                 rowOffset, columnOffset)){}
 
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     ~PartialMatrix(){}
 
@@ -819,7 +819,7 @@ class PartialMatrix : public DelegatedMatrix<T>{
 /**
  * Matrix class.
  * 
- * s—ñ‚ÌƒNƒ‰ƒX
+ * ï™‡î¤¥î¾¿ï€€?ï€Š
  * 
  */
 template <class FloatT = double>
@@ -832,10 +832,10 @@ class Matrix{
     storage_t *m_Storage;
     
     /**
-     * MatrixƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * ƒXƒgƒŒ[ƒW‚ğw’è‚µ‚ÄV‚µ‚­s—ñ‚ğì‚è‚Ü‚·B
+     * Matrixï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * ï€Šï€™?î»“ï€‰î¿£îˆî˜‹î¾¨î¾·î‘¡î¾¨î¾ ï™‡î¤¥î¿£ïšî¿›î¿î¾ªîºº
      * 
-     * @param array ƒXƒgƒŒ[ƒW
+     * @param array ï€Šï€™?î»“ï€‰
      */
     Matrix(const storage_t *storage) : m_Storage(const_cast<storage_t *>(storage)){}
     
@@ -844,12 +844,12 @@ class Matrix{
     }
     
     /**
-     * MatrixƒNƒ‰ƒX‚ğì¬‚·‚éƒwƒ‹ƒpŠÖ”B
-     * w’è‚Ìs”Aw’è‚Ì—ñ”‚Ås—ñ‚ğ¶¬‚µ‚Ü‚·‚ªA
-     * ¬•ª‚É‚Â‚¢‚Ä‚Í‰Šú‰»‚ğs‚í‚È‚¢‚½‚ß•s’è‚Å‚·B
+     * Matrixï€€?ï€Šî¿£ïšî’•î¾ªî¿œï€©?ï€¢ï’±?îºº
+     * îˆî˜‹î¾¿ï™‡?îº¹îˆî˜‹î¾¿î¤¥?î¾¸ï™‡î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªî¾îº¹
+     * î’•î¤î¾¼î¾µî¾•î¾·î¿€?ï“•ï¹î¿£ï™‡î¿ î¾»î¾•î¾°î¿’îî˜‹î¾¸î¾ªîºº
      *
-     * @param rows s”
-     * @param columns —ñ”
+     * @param rows ï™‡?
+     * @param columns î¤¥?
      */
     static self_t naked(
         const unsigned int &rows,
@@ -859,38 +859,38 @@ class Matrix{
   
   public:
     /**
-     * “à•”“I‚È•Û‘¶Œ`®‚ğ•Ô‚µ‚Ü‚·B
+     * îš ?î˜«î¾»îŸ•î”¼ï–—îî¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (const storage_t *) ƒXƒgƒŒ[ƒW
+     * @return (const storage_t *) ï€Šï€™?î»“ï€‰
      */
     const storage_t *storage() const{return m_Storage;}
 
     /**
-     * MatrixƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
+     * Matrixï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
      * 
      */
     Matrix() : m_Storage(NULL){}
     
     /**
-     * MatrixƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * w’è‚Ìs”Aw’è‚Ì—ñ”‚Ås—ñ‚ğ¶¬‚µ‚Ü‚·B
-     * ‚Ü‚½¬•ª‚Í‚·‚×‚ÄFloatT(0)‚Å‰Šú‰»‚³‚ê‚Ü‚·B
+     * Matrixï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * îˆî˜‹î¾¿ï™‡?îº¹îˆî˜‹î¾¿î¤¥?î¾¸ï™‡î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
+     * î¿î¾°î’•î¤î¿€î¾ªî¿Šî¾·FloatT(0)î¾¸?ï“•ï¹î¾¦î¿î¿î¾ªîºº
      * 
      *     
-     * @param rows s”
-     * @param columns —ñ”
+     * @param rows ï™‡?
+     * @param columns î¤¥?
      */
     Matrix(const unsigned int &rows, const unsigned int &columns)
         : m_Storage(new Array2D_Dense<FloatT>(rows, columns)){m_Storage->clear();}
     
     /**
-     * MatrixƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * w’è‚Ìs”Aw’è‚Ì—ñ”‚Ås—ñ‚ğ¶¬‚µ‚Ü‚·B
-     * ‚Ü‚½¬•ª‚Íseialized‚Å•œŒ³‚³‚ê‚Ü‚·B
+     * Matrixï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * îˆî˜‹î¾¿ï™‡?îº¹îˆî˜‹î¾¿î¤¥?î¾¸ï™‡î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
+     * î¿î¾°î’•î¤î¿€seializedî¾¸?ï—ˆî¾¦î¿î¿î¾ªîºº
      *
-     * @param rows s”
-     * @param columns —ñ”
-     * @param serialized ¬•ª
+     * @param rows ï™‡?
+     * @param columns î¤¥?
+     * @param serialized î’•î¤
      */
     Matrix(
         const unsigned int &rows, const unsigned int &columns,
@@ -898,23 +898,23 @@ class Matrix{
         : m_Storage(new Array2D_Dense<FloatT>(rows, columns, serialized)){}
     
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * ƒVƒƒƒ[ƒRƒs[‚ğ¶¬‚µ‚Ü‚·B
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€îºº
+     * ï€ˆ??î»“ï€„ï€¥î»“î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
      * 
-     * @param matrix ƒRƒs[Œ³
+     * @param matrix ï€„ï€¥î»“ï—ˆ
      */
     Matrix(const Matrix &matrix) : m_Storage(matrix.m_Storage->shallow_copy()){}
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     virtual ~Matrix(){delete m_Storage;}
     
   protected:
     /**
-     * ‘ã“ü‰‰Zq‚ğƒTƒ|[ƒg‚·‚é‚½‚ß‚ÌŠÖ”
-     * “à•”“I‚É‚ÍƒVƒƒƒ[ƒRƒs[‚ğs‚Á‚Ä‚¢‚Ü‚·B
+     * î•©îš¼?îŒ«î‚î¿£ï€†ï€®î»“ï€™î¾ªî¿œî¾°î¿’î¾¿ï’±?
+     * îš ?î˜«î¾¼î¿€ï€ˆ??î»“ï€„ï€¥î»“î¿£ï™‡î¾´î¾·î¾•î¿î¾ªîºº
      *
-     * @return (self_t) ©•ª©g
+     * @return (self_t) î˜î¤î˜î‘²
      */
     virtual self_t &substitute(const self_t &matrix){
       if(this != &matrix){
@@ -928,59 +928,59 @@ class Matrix{
 
   public:
     /**
-     * ‘ã“ü‰‰ZqB
+     * î•©îš¼?îŒ«î‚îºº
      *
-     * @return (self_t) ©•ª©g
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator=(const self_t &matrix){
       return substitute(matrix);
     }
     
     /**
-     * s—ñ‚ğ•¡»(ƒfƒB[ƒvƒRƒs[)‚µ‚Ü‚·B
+     * ï™‡î¤¥î¿£î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¨î¿î¾ªîºº
      * 
-     * @return (self_t) ƒRƒs[
+     * @return (self_t) ï€„ï€¥î»“
      */
     self_t copy() const{
       return self_t(m_Storage->copy());
     }
     
     /**
-     * s”‚ğ•Ô‚µ‚Ü‚·B
+     * ï™‡?î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (int) s”
+     * @return (int) ï™‡?
      */
     unsigned int rows() const{return m_Storage->rows();}
     /**
-     * —ñ”‚ğ•Ô‚µ‚Ü‚·B
+     * î¤¥?î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @return (int) —ñ”
+     * @return (int) î¤¥?
      */
     unsigned int columns() const{return m_Storage->columns();}
     
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     inline FloatT &operator()(const unsigned int &row, const unsigned int &column){
       return m_Storage->operator()(row, column);
     }
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B(Matlab•—–¡)
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº(Matlab?î ¸)
      * 
-     * @param row s”Ô†(ŠJn”Ô†‚Í1`)
-     * @param column —ñ”Ô†(ŠJn”Ô†‚Í1`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡îœ±?(ï‘‡îŒ¿îœ±?î¿€1î»˜)
+     * @param column î¤¥îœ±?(ï‘‡îŒ¿îœ±?î¿€1î»˜)
+     * @return (FloatT) î’•î¤
      */
     FloatT &matlab(const int &row, const int &column){
       return (*this)(row - 1, column - 1);
     }
     
     /**
-     * —v‘f‚ğƒ[ƒƒNƒŠƒA‚µ‚Ü‚·
+     * î£Œî”î¿£ï€?ï€€?î¿³î¾¨î¿î¾ª
      * 
      */
     self_t clear(){
@@ -989,10 +989,10 @@ class Matrix{
     }
     
     /**
-     * w’è‚ÌƒXƒJƒ‰[s—ñ‚ğ¶¬‚µ‚Ü‚·B
+     * îˆî˜‹î¾¿ï€Šî¿¼?î»“ï™‡î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
      *
-     * @param size w’è‚Ìs”(—ñ”)
-     * @param scalar ’l
+     * @param size îˆî˜‹î¾¿ï™‡?(î¤¥?)
+     * @param scalar î–±
      */
     static self_t getScalar(const unsigned int &size, const FloatT &scalar){
       self_t result(size, size);
@@ -1001,9 +1001,9 @@ class Matrix{
     }
     
     /**
-     * w’è‚Ì’PˆÊs—ñ‚ğ¶¬‚µ‚Ü‚·B
+     * îˆî˜‹î¾¿î–•ï«ï™‡î¤¥î¿£î’Ÿî’•î¾¨î¿î¾ªîºº
      * 
-     * @parma size w’ès”(—ñ”)
+     * @parma size îˆî˜‹ï™‡?(î¤¥?)
      */
     static self_t getI(const int &size){
       return getScalar(size, FloatT(1));
@@ -1012,11 +1012,11 @@ class Matrix{
     typedef TransposedMatrix<FloatT> transposed_t;
     
     /**
-     * s—ñ‚ğ“]’u‚µ‚Ü‚·B
-     * “]’u‚³‚ê‚½s—ñ‚Í‚à‚Æ‚Ìs—ñ‚ÆƒŠƒ“ƒN‚µ‚Ä‚¢‚Ü‚·B
-     * ‚à‚Æ‚Ìs—ñ‚Æ‚ÌØ‚è—£‚µ‚ğs‚¤‚É‚Ítranspose().copy()‚Æ‚µ‚Ä‚­‚¾‚³‚¢B
+     * ï™‡î¤¥î¿£î˜¿î–ºî¾¨î¿î¾ªîºº
+     * î˜¿î–ºî¾¦î¿î¾°ï™‡î¤¥î¿€î¿“î¾¹î¾¿ï™‡î¤¥î¾¹??ï€€î¾¨î¾·î¾•î¿î¾ªîºº
+     * î¿“î¾¹î¾¿ï™‡î¤¥î¾¹î¾¿î“î¿›î£—î¾¨î¿£ï™‡î¾—î¾¼î¿€transpose().copy()î¾¹î¾¨î¾·î¾ î¾±î¾¦î¾•îºº
      * 
-     * @return (transposed_t) “]’us—ñ
+     * @return (transposed_t) î˜¿î–ºï™‡î¤¥
      */
     transposed_t transpose() const{
       return transposed_t(*this);
@@ -1025,13 +1025,13 @@ class Matrix{
     typedef PartialMatrix<FloatT> partial_t;
     
     /**
-     * w’è‚µ‚½•”•ªs—ñ‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°?î¤ï™‡î¤¥î¿£îŸî¾¨î¿î¾ªîºº
      *
-     * @param rowSize sƒTƒCƒY
-     * @param columnSize —ñƒTƒCƒY
-     * @param rowOffset ŠJnsƒCƒ“ƒfƒbƒNƒX
-     * @param columnOffset ŠJn—ñƒCƒ“ƒfƒbƒNƒX
-     * @return (PartialMatrix<T>) •”•ªs—ñ
+     * @param rowSize ï™‡ï€†î¿µï€‹
+     * @param columnSize î¤¥ï€†î¿µï€‹
+     * @param rowOffset ï‘‡îŒ¿ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param columnOffset ï‘‡îŒ¿î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
+     * @return (PartialMatrix<T>) ?î¤ï™‡î¤¥
      */
     partial_t partial(
         const unsigned int &rowSize,
@@ -1044,20 +1044,20 @@ class Matrix{
     }
     
     /**
-     * w’è‚µ‚½s‚ÌsƒxƒNƒgƒ‹‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¾¿ï™‡ï€ªï€€ï€™?î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX
-     * @return (self_t) sƒxƒNƒgƒ‹
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @return (self_t) ï™‡ï€ªï€€ï€™?
      */
     partial_t rowVector(const unsigned int &row) const{
       assert(row < rows());
       return partial_t(*this, 1, columns(), row, 0);
     }
     /**
-     * w’è‚µ‚½—ñ‚Ì—ñƒxƒNƒgƒ‹‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°î¤¥î¾¿î¤¥ï€ªï€€ï€™?î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX
-     * @return (partial_t) —ñƒxƒNƒgƒ‹
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
+     * @return (partial_t) î¤¥ï€ªï€€ï€™?
      */
     partial_t columnVector(const unsigned int &column) const{
       assert(column < columns());
@@ -1065,11 +1065,11 @@ class Matrix{
     }
     
     /**
-     * s‚ğ“ü‚ê‘Ö‚¦‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * ï™‡î¿£îš¼î¿î•œî¾™î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      * 
-     * @param row1 sƒCƒ“ƒfƒbƒNƒX1
-     * @param row2 sƒCƒ“ƒfƒbƒNƒX2
-     * @return (self_t) ©•ª©g
+     * @param row1 ï™‡î¿µ?ï€˜ï€”ï€€ï€Š1
+     * @param row2 ï™‡î¿µ?ï€˜ï€”ï€€ï€Š2
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &exchangeRows(const unsigned int &row1, const unsigned int &row2){
       assert(row1 < rows() && row2 < rows());
@@ -1082,11 +1082,11 @@ class Matrix{
       return *this;
     }
     /**
-     * —ñ‚ğ“ü‚ê‘Ö‚¦‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * î¤¥î¿£îš¼î¿î•œî¾™î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      * 
-     * @param column1 —ñƒCƒ“ƒfƒbƒNƒX1
-     * @param column2 —ñƒCƒ“ƒfƒbƒNƒX2
-     * @return (self_t) ©•ª©g
+     * @param column1 î¤¥î¿µ?ï€˜ï€”ï€€ï€Š1
+     * @param column2 î¤¥î¿µ?ï€˜ï€”ï€€ï€Š2
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &exchangeColumns(const unsigned int &column1, const unsigned int &column2){
       assert(column1 < columns() && column2 < columns());
@@ -1100,16 +1100,16 @@ class Matrix{
     }
     
     /**
-     * ³•ûs—ñ‚©‚Ç‚¤‚©’²‚×‚Ü‚·B
+     * î’œîŸµï™‡î¤¥î¾œî¾ºî¾—î¾œî—•î¿Šî¿î¾ªîºº
      * 
-     * @return (bool) ³•ûs—ñ‚Å‚ ‚éê‡trueA‚»‚êˆÈŠO‚Ìê‡false
+     * @return (bool) î’œîŸµï™‡î¤¥î¾¸?î¿œî¶?trueîº¹î¾®î¿ï©ï‘Œî¾¿î¶?false
      */
     bool isSquare() const{return rows() == columns();}
     
     /**
-     * ‘ÎŠps—ñ‚©‚Ç‚¤‚©’²‚×‚Ü‚·
+     * î•”ï‘­ï™‡î¤¥î¾œî¾ºî¾—î¾œî—•î¿Šî¿î¾ª
      *
-     * @return (bool) ‘ÎŠps—ñ‚Å‚ ‚éê‡trueA‚»‚êˆÈŠO‚Ìê‡false
+     * @return (bool) î•”ï‘­ï™‡î¤¥î¾¸?î¿œî¶?trueîº¹î¾®î¿ï©ï‘Œî¾¿î¶?false
      */
     bool isDiagonal() const{
       if(isSquare()){
@@ -1126,9 +1126,9 @@ class Matrix{
     }
     
     /**
-     * ‘ÎÌs—ñ‚©‚Ç‚¤‚©’²‚×‚Ü‚·B
+     * î•”î˜ï™‡î¤¥î¾œî¾ºî¾—î¾œî—•î¿Šî¿î¾ªîºº
      * 
-     * @return (bool) ‘ÎÌs—ñ‚Å‚ ‚éê‡trueA‚»‚êˆÈŠO‚Ìê‡false
+     * @return (bool) î•”î˜ï™‡î¤¥î¾¸?î¿œî¶?trueîº¹î¾®î¿ï©ï‘Œî¾¿î¶?false
      */
     bool isSymmetric() const{
       if(isSquare()){
@@ -1144,20 +1144,20 @@ class Matrix{
     }
     
     /**
-     * s—ñ‚Ì‘å‚«‚³‚ªˆÙ‚È‚é‚©’²‚×‚é
+     * ï™‡î¤¥î¾¿î•«î¾î¾¦î¾ïºî¾»î¿œî¾œî—•î¿Šî¿œ
      *
-     * @param matrix ”äŠr‘ÎÛ
-     * @return (bool) ˆÙ‚È‚Á‚Ä‚¢‚éê‡true
+     * @param matrix îï‘¯î•”î§
+     * @return (bool) ïºî¾»î¾´î¾·î¾•î¿œî¶?true
      */
     bool isDifferentSize(const self_t &matrix) const{
       return (rows() != matrix.rows()) || (columns() != matrix.columns());
     }
     
     /**
-     * s—ñ‚ÌƒgƒŒ[ƒX‚ğ•Ô‚µ‚Ü‚·B
+     * ï™‡î¤¥î¾¿ï€™?î»“ï€Šî¿£îŸî¾¨î¿î¾ªîºº
      *
-     * @param do_check ³•ûs—ñ‚©‚ğ’²‚×‚éAƒfƒtƒHƒ‹ƒgtrue
-     * @return (T) ƒgƒŒ[ƒX
+     * @param do_check î’œîŸµï™‡î¤¥î¾œî¿£î—•î¿Šî¿œîº¹ï€˜ï€¦î¿º?ï€™true
+     * @return (T) ï€™?î»“ï€Š
      */
     FloatT trace(bool do_check = true) const {
       assert(do_check && !isSquare());
@@ -1169,10 +1169,10 @@ class Matrix{
     }
     
     /**
-     * s—ñ‚Ì¬•ª‘S‚Ä‚ğw’è”{‚µ‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£îˆî˜‹î›ºî¾¨î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      * 
-     * @param scalar ”{”
-     * @return (self_t) ©•ª©g
+     * @param scalar î›º?
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator*=(const FloatT &scalar){
       for(unsigned int i = 0; i < rows(); i++){
@@ -1183,46 +1183,46 @@ class Matrix{
       return *this;
     }
     /**
-     * s—ñ‚Ì¬•ª‘S‚Ä‚ğw’è”{‚µ‚Ü‚·B
+     * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£îˆî˜‹î›ºî¾¨î¿î¾ªîºº
      * 
-     * @param scalar ”{”
-     * @return (self_t) Œ‹‰Ê
+     * @param scalar î›º?
+     * @return (self_t) ?ïˆ
      */
     self_t operator*(const FloatT &scalar) const{return (copy() *= scalar);}
     /**
-     * s—ñ‚Ì¬•ª‘S‚Ä‚ğw’è”{‚µ‚Ü‚·B
+     * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£îˆî˜‹î›ºî¾¨î¿î¾ªîºº
      * 
-     * @param scalar ”{”
-     * @return (self_t) Œ‹‰Ê
+     * @param scalar î›º?
+     * @return (self_t) ?ïˆ
      */
     friend self_t operator*(const FloatT &scalar, const self_t &matrix){return matrix * scalar;}
     /**
-     * s—ñ‚Ì¬•ª‘S‚Ä‚ğœZ‚µ‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£?îŒ«î¾¨î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      * 
-     * @param scalar ”{”
-     * @return (self_t) ©•ª©g
+     * @param scalar î›º?
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator/=(const FloatT &scalar){return (*this) *= (1 / scalar);}
     /**
-     * s—ñ‚Ì¬•ª‘S‚Ä‚ğœZ‚µ‚Ü‚·B
+     * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£?îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param scalar ”{”
-     * @return (self_t) Œ‹‰Ê
+     * @param scalar î›º?
+     * @return (self_t) ?ïˆ
      */
     self_t operator/(const FloatT &scalar) const{return (copy() /= scalar);}
     /**
-     * s—ñ‚Ì¬•ª‘S‚Ä‚ğœZ‚µ‚Ü‚·B
+     * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£?îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param scalar ”{”
-     * @return (self_t) Œ‹‰Ê
+     * @param scalar î›º?
+     * @return (self_t) ?ïˆ
      */
     friend self_t operator/(const FloatT &scalar, const self_t &matrix){return matrix / scalar;}
     
     /**
-     * s—ñ‚ğ¬•ª‚²‚Æ‚É‰ÁZ‚µ‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * ï™‡î¤¥î¿£î’•î¤î¾¥î¾¹î¾¼ï¿îŒ«î¾¨î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      * 
-     * @param matrix ‰Á‚¦‚és—ñ
-     * @return (self_t) ©•ª©g
+     * @param matrix ï¿î¾™î¿œï™‡î¤¥
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator+=(const self_t &matrix){
       assert(rows() == matrix.rows() && columns() == matrix.columns());
@@ -1235,18 +1235,18 @@ class Matrix{
     }
 
     /**
-     * s—ñ‚ğ¬•ª‚²‚Æ‚É‰ÁZ‚µ‚Ü‚·B
+     * ï™‡î¤¥î¿£î’•î¤î¾¥î¾¹î¾¼ï¿îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param matrix ‰Á‚¦‚és—ñ
-     * @return (self_t) Œ‹‰Ê
+     * @param matrix ï¿î¾™î¿œï™‡î¤¥
+     * @return (self_t) ?ïˆ
      */
     self_t operator+(const self_t &matrix) const{return (copy() += matrix);}
     
     /**
-     * s—ñ‚ğ¬•ª‚²‚Æ‚ÉŒ¸Z‚µ‚Ü‚·B
+     * ï™‡î¤¥î¿£î’•î¤î¾¥î¾¹î¾¼ï—îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param matrix ˆø‚­s—ñ
-     * @return (self_t) ©•ª©g
+     * @param matrix ï™î¾ ï™‡î¤¥
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator-=(const self_t &matrix){
       assert(rows() == matrix.rows() && columns() == matrix.columns());
@@ -1259,18 +1259,18 @@ class Matrix{
     }
     
     /**
-     * s—ñ‚ğ¬•ª‚²‚Æ‚ÉŒ¸Z‚µ‚Ü‚·B
+     * ï™‡î¤¥î¿£î’•î¤î¾¥î¾¹î¾¼ï—îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param matrix ˆø‚­s—ñ
-     * @return (self_t) Œ‹‰Ê
+     * @param matrix ï™î¾ ï™‡î¤¥
+     * @return (self_t) ?ïˆ
      */
     self_t operator-(const self_t &matrix) const{return (copy() -= matrix);}
     
     /**
-     * s—ñ‚ğæZ‚µ‚Ü‚·B
+     * ï™‡î¤¥î¿£î²îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param matrix ƒD‚¯‚és—ñ
-     * @return (self_t) Œ‹‰Ê
+     * @param matrix î¿¶î¾¢î¿œï™‡î¤¥
+     * @return (self_t) ?ïˆ
      */
     self_t operator*(const self_t &matrix) const{
       assert(columns() == matrix.rows());
@@ -1286,20 +1286,20 @@ class Matrix{
     }
     
     /**
-     * s—ñ‚ğæZ‚µ‚Ü‚·B(“]’us—ñƒo[ƒWƒ‡ƒ“)
+     * ï™‡î¤¥î¿£î²îŒ«î¾¨î¿î¾ªîºº(î˜¿î–ºï™‡î¤¥ï€¡î»“ï€‰??)
      *
-     * @param matrix ‚©‚¯‚és—ñ
-     * @return (self_t) Œ‹‰Ê
+     * @param matrix î¾œî¾¢î¿œï™‡î¤¥
+     * @return (self_t) ?ïˆ
      */
     self_t operator*(const transposed_t &matrix) const{
       return operator*((const self_t &)matrix);
     }
     
     /**
-     * s—ñ‚ğæZ‚µ‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * ï™‡î¤¥î¿£î²îŒ«î¾¨î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      *
-     * @param matrix ‚©‚¯‚és—ñ
-     * @return (self_t) ©•ª©g
+     * @param matrix î¾œî¾¢î¿œï™‡î¤¥
+     * @return (self_t) î˜î¤î˜î‘²
      */
     template <class RhsMatrix>
     self_t &operator*=(const RhsMatrix &matrix){
@@ -1307,19 +1307,19 @@ class Matrix{
     }
     
     /**
-     * ’P€‰‰Zq-B
-     * Œø‰Ê‚Í matrix * -1‚Æ“¯‚¶‚Å‚·B
+     * î–•??îŒ«î‚-îºº
+     * ï˜ïˆî¿€ matrix * -1î¾¹î™¯î¾©î¾¸î¾ªîºº
      * 
      * @return (self_t) -matrix
      */
     self_t operator-() const{return (copy() *= -1);}
     
     /**
-     * •âs—ñ(—]ˆöqs—ñ)‚ğ‹‚ß‚Ü‚·B
+     * îŸœï™‡î¤¥(î¢³ï—î‚ï™‡î¤¥)î¿£?î¿’î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX
-     * @return (self_t) •âs—ñ
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
+     * @return (self_t) îŸœï™‡î¤¥
      */
     self_t coMatrix(const unsigned int &row, const unsigned int &column) const{
       assert(row < rows() && column < columns());
@@ -1333,9 +1333,9 @@ class Matrix{
     }
     
     /**
-     * s—ñ®‚ğŒvZ‚µ‚Ü‚·B
+     * ï™‡î¤¥îî¿£ï–­îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @return (FloatT) Œ‹‰Ê
+     * @return (FloatT) ?ïˆ
      */
     FloatT determinant(bool do_check = false) const{
       assert((!do_check) || isSquare());
@@ -1353,11 +1353,11 @@ class Matrix{
     }
     
     /**
-     * LU•ª‰ğ‚ğ‚µ‚Ü‚·B
-     * (0, 0)`(n-1, n-1):  Ls—ñ
-     * (0, n)`(n-1, 2n-1): Us—ñ
+     * LUî¤ï®î¿£î¾¨î¿î¾ªîºº
+     * (0, 0)î»˜(n-1, n-1):  Lï™‡î¤¥
+     * (0, n)î»˜(n-1, 2n-1): Uï™‡î¤¥
      * 
-     * @return (self_t) LU•ª‰ğ
+     * @return (self_t) LUî¤ï®
      */
     self_t decomposeLU(bool do_check = false) const{
       assert((!do_check) || isSquare());
@@ -1388,11 +1388,11 @@ class Matrix{
     }
      
     /**
-     * UD•ª‰ğ‚ğ‚µ‚Ü‚·B
-     * (0, 0)`(n-1,n-1):  Us—ñ
-     * (0, n)`(n-1,2n-1): Ds—ñ
+     * UDî¤ï®î¿£î¾¨î¿î¾ªîºº
+     * (0, 0)î»˜(n-1,n-1):  Uï™‡î¤¥
+     * (0, n)î»˜(n-1,2n-1): Dï™‡î¤¥
      * 
-     * @return (self_t) UD•ª‰ğ
+     * @return (self_t) UDî¤ï®
      */
     self_t decomposeUD(bool do_check = false) const{
       assert((!do_check) || isSymmetric());
@@ -1417,20 +1417,20 @@ class Matrix{
     }
     
     /**
-     * ‹ts—ñ‚ğ‹‚ß‚Ü‚·B
+     * ï”ï™‡î¤¥î¿£?î¿’î¿î¾ªîºº
      * 
-     * @return (self_t) ‹ts—ñ
+     * @return (self_t) ï”ï™‡î¤¥
      */
     self_t inverse(bool do_check = false) const{
       assert((!do_check) || isSquare());
       
       unsigned int size(rows());
       
-      //ƒKƒEƒXÁ‹–@
+      //î¿½î¿·ï€Šî?îŸ¹
       self_t left(copy());
       self_t right(self_t::getI(size));
       for(unsigned int i = 0; i < size; i++){
-        if(left(i, i) == FloatT(0)){ //(i, i)‚ª‘¶İ‚·‚é‚æ‚¤‚É•À‚×‘Ö‚¦
+        if(left(i, i) == FloatT(0)){ //(i, i)î¾î”¼ïšî¾ªî¿œî¿™î¾—î¾¼îºî¿Šî•œî¾™
           for(unsigned int j = i+1; j <= size; j++){
             assert(j != size);
             if(left(j, i) != FloatT(0)){
@@ -1459,32 +1459,32 @@ class Matrix{
       
       return right;
       
-      //LU•ª‰ğ
+      //LUî¤ï®
       /*
       */
     }
     /**
-     * ‹ts—ñ‚ğ‚©‚¯‚Ü‚·B”j‰ó“Iƒƒ\ƒbƒh‚Å‚·B
+     * ï”ï™‡î¤¥î¿£î¾œî¾¢î¿î¾ªîººî›©ï±î˜«?ï€ï€”ï€šî¾¸î¾ªîºº
      * 
-     * @param matrix s—ñ
-     * @return (self_t) ©•ª©g
+     * @param matrix ï™‡î¤¥
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator/=(const self_t &matrix){return (*this) *= matrix.inverse();}
     /**
-     * ‹ts—ñ‚ğ‚©‚¯‚Ü‚·B
+     * ï”ï™‡î¤¥î¿£î¾œî¾¢î¿î¾ªîºº
      * 
-     * @param matrix s—ñ
-     * @return (self_t) Œ‹‰Ê
+     * @param matrix ï™‡î¤¥
+     * @return (self_t) ?ïˆ
      */
     self_t operator/(const self_t &matrix) const{return (copy() /= matrix);}
     
     /**
-     * ƒsƒ{ƒbƒg‚ğw’è‚µ‚ÄA‰ÁZ‚µ‚Ü‚·B
-     * ”j‰ó“I‚Å‚·B
+     * ï€¥ï€­ï€”ï€™î¿£îˆî˜‹î¾¨î¾·îº¹ï¿îŒ«î¾¨î¿î¾ªîºº
+     * î›©ï±î˜«î¾¸î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX
-     * @param matrix ‘«‚·s—ñ
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param matrix î”±î¾ªï™‡î¤¥
      */
     self_t pivotMerge(const int &row, const int &column, const self_t &matrix){
       for(int i = 0; i < matrix.rows(); i++){
@@ -1500,18 +1500,18 @@ class Matrix{
     }
     
     /**
-     * ƒsƒ{ƒbƒg‚ğw’è‚µ‚ÄA‰ÁZ‚µ‚Ü‚·B
+     * ï€¥ï€­ï€”ï€™î¿£îˆî˜‹î¾¨î¾·îº¹ï¿îŒ«î¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX
-     * @param matrix ‘«‚·s—ñ
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š
+     * @param matrix î”±î¾ªï™‡î¤¥
      */
     self_t pivotAdd(const int &row, const int &column, const self_t &matrix) const{
       return copy().pivotMerge(row, column, matrix);
     }
     
     /**
-     * s—ñ‚ğŒ©‚â‚·‚¢Œ`‚Åo—Í‚µ‚Ü‚·B
+     * ä»¥æ˜“æ–¼é–±è®€çš„æ ¼å¼è¼¸å‡ºçŸ©é™£ã€‚
      * 
      */
     void inspect(char *buffer, int buffer_size) const{
@@ -1519,10 +1519,12 @@ class Matrix{
       if(m_Storage){
         int printed;
         printed = snprintf(buffer, buffer_size, "{");
+        printf("%s",buffer);
         buffer += printed;
         buffer_size -= printed;
         for(unsigned int i = 0; i < rows(); i++){
           printed = snprintf(buffer, buffer_size, (i == 0 ? "\n{" : ",\n{"));
+          printf("%s",buffer);
           buffer += printed;
           buffer_size -= printed;
           for(unsigned int j = 0; j < columns(); j++){
@@ -1530,21 +1532,24 @@ class Matrix{
                                const_cast<self_t *>(this)->operator()(i, j));*/
             printed = snprintf(buffer, buffer_size, (j == 0 ? "%f" : ",%f"), 
                                const_cast<self_t *>(this)->operator()(i, j));
+            printf("%s",buffer);
             buffer += printed;
             buffer_size -= printed;
           }
           printed = snprintf(buffer, buffer_size, "}");
+          printf("%s",buffer);
           buffer += printed;
           buffer_size -= printed;
         }
         snprintf(buffer, buffer_size, "\n}");
+        printf("%s",buffer);
       }
     }
 };
 
 #if defined(DSPF_DP_MAT_MUL_H_) || defined(DSPF_SP_MAT_MUL_ASM_H_)
 /**
- * ƒAƒ‰ƒCƒƒ“ƒg‚³‚ê‚½–§2ŸŒ³”z—ñ‚ğ‚ ‚ç‚í‚·ƒNƒ‰ƒX
+ * î¿³?î¿µ??ï€™î¾¦î¿î¾°î ¾2?ï—ˆî›¹î¤¥î¿£?î¿šî¿ î¾ªï€€?ï€Š
  * 
  */
 template<class FloatT>
@@ -1588,10 +1593,10 @@ class Array2D_DenseAligned
     
   protected:
     /**
-     * Array2D_DenseAligned(ƒAƒ‰ƒCƒƒ“ƒg‚³‚ê‚½2ŸŒ³”z—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
+     * Array2D_DenseAligned(î¿³?î¿µ??ï€™î¾¦î¿î¾°2?ï—ˆî›¹î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
      * 
-     * @param _rows s”
-     * @param _columns —ñ”
+     * @param _rows ï™‡?
+     * @param _columns î¤¥?
      */
     Array2D_DenseAligned(
         const unsigned int &_rows,
@@ -1605,12 +1610,12 @@ class Array2D_DenseAligned
     }
     
     /**
-     * Array2D_DenseAligned(ƒAƒ‰ƒCƒƒ“ƒg‚³‚ê‚½2ŸŒ³”z—ñ)ƒNƒ‰ƒX‚ÌƒRƒ“ƒXƒgƒ‰ƒNƒ^B
-     * ¬•ª‚Íseialized‚Å•œŒ³‚³‚ê‚Ü‚·B
+     * Array2D_DenseAligned(î¿³?î¿µ??ï€™î¾¦î¿î¾°2?ï—ˆî›¹î¤¥)ï€€?ï€Šî¾¿ï€„?ï€Šï€™?ï€€ï€îºº
+     * î’•î¤î¿€seializedî¾¸?ï—ˆî¾¦î¿î¿î¾ªîºº
      * 
-     * @param _rows s”
-     * @param _columns —ñ”
-     * @param serialized ¬•ª
+     * @param _rows ï™‡?
+     * @param _columns î¤¥?
+     * @param serialized î’•î¤
      */
     Array2D_DenseAligned(
         const unsigned int &_rows,
@@ -1633,7 +1638,7 @@ class Array2D_DenseAligned
   
   public:
     /**
-     * ƒRƒs[ƒRƒ“ƒXƒgƒ‰ƒNƒ^
+     * ï€„ï€¥î»“ï€„?ï€Šï€™?ï€€ï€
      * 
      */
     Array2D_DenseAligned(const self_t &orig)
@@ -1643,7 +1648,7 @@ class Array2D_DenseAligned
         m_buffer_columns(orig.m_buffer_columns){}
     
     /**
-     * ƒfƒXƒgƒ‰ƒNƒ^B
+     * ï€˜ï€Šï€™?ï€€ï€îºº
      */
     ~Array2D_DenseAligned(){}
     
@@ -1652,10 +1657,10 @@ class Array2D_DenseAligned
     
   protected:
     /**
-     * •¡»(ƒfƒB[ƒvƒRƒs[)‚Ìƒwƒ‹ƒp
+     * î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¿ï€©?ï€¢
      * 
-     * @param dist ƒRƒs[æ
-     * @return (root_t) ƒRƒs[
+     * @param dist ï€„ï€¥î»“î“
+     * @return (root_t) ï€„ï€¥î»“
      */
     root_t *copy_helper(self_t *dist) const {
       memcpy(dist->buffer(), m_buffer, 
@@ -1665,11 +1670,11 @@ class Array2D_DenseAligned
     
   public:
     /**
-     * w’è‚µ‚½s—ñ¬•ª‚ğ•Ô‚µ‚Ü‚·B
+     * îˆî˜‹î¾¨î¾°ï™‡î¤¥î’•î¤î¿£îŸî¾¨î¿î¾ªîºº
      * 
-     * @param row sƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @param column —ñƒCƒ“ƒfƒbƒNƒX(ŠJn”Ô†‚Í0`)
-     * @return (FloatT) ¬•ª
+     * @param row ï™‡î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @param column î¤¥î¿µ?ï€˜ï€”ï€€ï€Š(ï‘‡îŒ¿îœ±?î¿€0î»˜)
+     * @return (FloatT) î’•î¤
      */
     inline FloatT &operator()(
         const unsigned int &row, 
@@ -1679,7 +1684,7 @@ class Array2D_DenseAligned
     }
     
     /**
-     * —v‘f‚Ìƒ[ƒƒNƒŠƒA‚ğ‚µ‚Ü‚·B
+     * î£Œî”î¾¿ï€?ï€€?î¿³î¿£î¾¨î¿î¾ªîºº
      * 
      */
     void clear(){
@@ -1689,9 +1694,9 @@ class Array2D_DenseAligned
     }
     
     /**
-     * ‘ã“ü‰‰ZqB
+     * î•©îš¼?îŒ«î‚îºº
      * 
-     * @return (self_t) ©•ª©g
+     * @return (self_t) î˜î¤î˜î‘²
      */
     self_t &operator=(const self_t &another){
       buffer_manager_t::operator=(another);
@@ -1704,7 +1709,7 @@ class Array2D_DenseAligned
 #if defined(DSPF_DP_BLK_MOVE_H_) || defined(DSPF_SP_BLK_MOVE_ASM_H_)
 
 /*
- * ‰Šú‰»
+ * ?ï“•ï¹
  */
 #define MAKE_SPECIALIZED(type, prefix) \
 template<> \
@@ -1805,7 +1810,7 @@ MAKE_SPECIALIZED(float, sp)
 #endif
 
 /**
- * ƒAƒ‰ƒCƒƒ“ƒg‚³‚ê‚½–§2ŸŒ³”z—ñ‚ğ‚ ‚ç‚í‚·ƒNƒ‰ƒX
+ * î¿³?î¿µ??ï€™î¾¦î¿î¾°î ¾2?ï—ˆî›¹î¤¥î¿£?î¿šî¿ î¾ªï€€?ï€Š
  * 
  */
 #define MAKE_SPECIALIZED(type) \
@@ -1835,32 +1840,32 @@ class Array2D_Dense<type > \
     ~Array2D_Dense(){} \
     \
     /**
-     * •¡»(ƒfƒB[ƒvƒRƒs[)‚µ‚Ü‚·B
+     * î›î’¤(ï€˜î¿´î»“ï€¨ï€„ï€¥î»“)î¾¨î¿î¾ªîºº
      * 
-     * @return (root_t) ƒRƒs[
+     * @return (root_t) ï€„ï€¥î»“
      */ \
     root_t *copy() const { \
       return copy_helper(new self_t(rows(), columns())); \
     } \
     \
     /**
-     * ’†g‚ª–§‚È”z—ñ‚É•ÏŠ·‚µ‚Ü‚·B
+     * ?î‘²î¾î ¾î¾»î›¹î¤¥î¾¼îŸ‰ï’’î¾¨î¿î¾ªîºº
      *
      * @return (Array2D_Dense<FloatT>)
      */ \
     self_t dense() const {return self_t(*this);} \
     \
     /**
-     * ƒVƒƒƒ[ƒRƒs[‚ğ‚µ‚Ü‚·B
+     * ï€ˆ??î»“ï€„ï€¥î»“î¿£î¾¨î¿î¾ªîºº
      * 
-     * @return (Array2D *)©•ª©g
+     * @return (Array2D *)î˜î¤î˜î‘²
      */ \
     root_t *shallow_copy() const{return new self_t(*this);} \
     \
     /**
-     * ‘ã“ü‰‰ZqB
+     * î•©îš¼?îŒ«î‚îºº
      * 
-     * @return (self_t) ©•ª©g
+     * @return (self_t) î˜î¤î˜î‘²
      */ \
     self_t &operator=(const self_t &another){ \
       super_t::operator=(another); \
@@ -1878,7 +1883,7 @@ MAKE_SPECIALIZED(float)
 #undef MAKE_SPECIALIZED
 
 /*
- * ŠÖ”—p‚Ì“Áê‰»‚Ì—Œ`
+ * ï’±?î£†î¾¿îšî™ï¹î¾¿?ï–—
  */
 #if 0
 #define MAKE_SPECIALIZED(type) \
@@ -1902,7 +1907,7 @@ MAKE_SPECIALIZED(float)
 #endif
 
 /*
- * s—ñ‚Ì¬•ª‘S‚Ä‚ğw’èæœ(unrolled version)
+ * ï™‡î¤¥î¾¿î’•î¤î“»î¾·î¿£îˆî˜‹î²?(unrolled version)
  */
 #define MAKE_SPECIALIZED(type) \
 template <> \
@@ -1935,7 +1940,7 @@ MAKE_SPECIALIZED(float)
 #undef MAKE_SPECIALIZED
 
 /*
- * s—ñ‚Ì¬•ª‚²‚Æ‚É‰ÁŒ¸Z(unrolled version)
+ * ï™‡î¤¥î¾¿î’•î¤î¾¥î¾¹î¾¼ï¿ï—îŒ«(unrolled version)
  */
 #define MAKE_SPECIALIZED(type) \
 template <> \
@@ -1989,8 +1994,8 @@ void mat_mul(FloatT *x, const int r1, const int c1,
     FloatT *y, const int c2, 
     FloatT *r,
     bool x_trans = false, bool y_trans = false){
-  int indx_c, indy_c; // —ñ•ûŒü‚Ö‚ÌˆÚ“®
-  int indx_r, indy_r; // s•ûŒü‚Ö‚ÌˆÚ“®
+  int indx_c, indy_c; // î¤¥îŸµï˜‘î¿‰î¾¿ï»î™®
+  int indx_r, indy_r; // ï™‡îŸµï˜‘î¿‰î¾¿ï»î™®
   if(x_trans){
     indx_c = r1;
     indx_r = 1;
@@ -2029,8 +2034,8 @@ void mat_mul_unrolled(FloatT *x, const int r1, const int c1,
   if((r1 == 1) || (c1 == 1) || (c2 == 1)){
     return mat_mul(x, r1, c1, y, c2, r, x_trans, y_trans);
   }
-  int indx_c, indy_c; // —ñ•ûŒü‚Ö‚ÌˆÚ“®
-  int indx_r, indy_r; // s•ûŒü‚Ö‚ÌˆÚ“®
+  int indx_c, indy_c; // î¤¥îŸµï˜‘î¿‰î¾¿ï»î™®
+  int indx_r, indy_r; // ï™‡îŸµï˜‘î¿‰î¾¿ï»î™®
   if(x_trans){
     indx_c = r1;
     indx_r = 1;
@@ -2046,7 +2051,7 @@ void mat_mul_unrolled(FloatT *x, const int r1, const int c1,
     indy_r = c2;
   }
   int indx, indy, indr(0);
-  // ƒ‹[ƒv“WŠJƒo[ƒWƒ‡ƒ“
+  // ?î»“ï€¨î˜¹ï‘‡ï€¡î»“ï€‰??
   for(int i(0); i < r1; i += 2){
     for(int j(0); j < c2; j += 2){
       indx = i * indx_r;
@@ -2075,7 +2080,7 @@ void mat_mul_unrolled(FloatT *x, const int r1, const int c1,
 }
 
 /*
- * s—ñ‚ÌæZ(”ñ“]’u * ”ñ“]’u)
+ * ï™‡î¤¥î¾¿î²îŒ«(îî˜¿î–º * îî˜¿î–º)
  * 
  */
 #define MAKE_SPECIALIZED1(type, prefix) \
@@ -2136,7 +2141,7 @@ MAKE_SPECIALIZED1(float, sp)
 #undef MAKE_SPECIALIZED2
 
 /*
- * s—ñ‚ÌæZ(”ñ“]’u * “]’u, “]’u * ”ñ“]’u, “]’u * “]’u)
+ * ï™‡î¤¥î¾¿î²îŒ«(îî˜¿î–º * î˜¿î–º, î˜¿î–º * îî˜¿î–º, î˜¿î–º * î˜¿î–º)
  */
 #define MAKE_SPECIALIZED(type) \
 template<> \
@@ -2203,7 +2208,7 @@ MAKE_SPECIALIZED(float)
 #if defined(DSPF_DP_MAT_TRANS_H_) || defined(DSPF_SP_MAT_MUL_ASM_H_)
 
 /*
- * “]’u
+ * î˜¿î–º
  */
 #define MAKE_SPECIALIZED(type, prefix) \
 template<> \
